@@ -23,6 +23,9 @@ Tüm PDF belgeleri doğrudan deponun ana dizinindedir:
 | **Laboratuvar 2** | IEC 62443 Mini Workshop: bölgeler, veri geçişleri ve erişim kararları (1 sayfa) | [Laboratuvar2.pdf](./Laboratuvar2.pdf) |
 | **Laboratuvar 3** | Threat & Risk Matrix: koşullu senaryolar ve risk puanlaması (1 sayfa) | [Laboratuvar3.pdf](./Laboratuvar3.pdf) |
 | **Laboratuvar 4** | Secure Remote Access: mevcut senaryo, hedef kontroller ve emniyet köprüsü (1 sayfa) | [Laboratuvar4.pdf](./Laboratuvar4.pdf) |
+| **Laboratuvar 5** | SBOM / CVE / Patch: yedek PLC yazılımı, zafiyet kararı ve yama testi (1 sayfa) | [Laboratuvar5.pdf](./Laboratuvar5.pdf) |
+| **Laboratuvar 6** | CRA Incident Simulation: tünel hava akışı olayı, kanıt koruma ve bildirim (1 sayfa) | [Laboratuvar6.pdf](./Laboratuvar6.pdf) |
+| **Laboratuvar 7** | AI Safety Challenge: tünel çıkışında görsel kalite kontrolü ve güvenli duruş (1 sayfa) | [Laboratuvar7.pdf](./Laboratuvar7.pdf) |
 | **SWOT Analizi** | 24 SWOT maddesi, 6 olay, 8 TOWS stratejisi ve 10 doğrulama kriteri (15 sayfa) | [YYC-4555-SWOT-Analizi.pdf](./YYC-4555-SWOT-Analizi.pdf) |
 
 ## Depo Yapısı
@@ -33,6 +36,9 @@ Tüm PDF belgeleri doğrudan deponun ana dizinindedir:
 ├── Laboratuvar2.pdf
 ├── Laboratuvar3.pdf
 ├── Laboratuvar4.pdf
+├── Laboratuvar5.pdf
+├── Laboratuvar6.pdf
+├── Laboratuvar7.pdf
 ├── Makine-Anlatimi.pdf
 ├── README.md
 └── YYC-4555-SWOT-Analizi.pdf
